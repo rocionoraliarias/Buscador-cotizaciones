@@ -15,14 +15,6 @@ class Sugeridas extends Component {
        this.setState({ filtradas: !this.state.filtradas})
      }
   
-/*
-display: inline-block;
-height: 25px;
-width: 25px;
-background-size: cover;
-border-radius: 100px;
-background-position-x: -5px;
-*/
 
 
  render(){
